@@ -1,6 +1,7 @@
 # BootstrapApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+It includes [@ng-bootstrap](https://ng-bootstrap.github.io/#/home). For a list of supported components see [Bootstrap Components](https://ng-bootstrap.github.io/#/components/accordion/examples). All bootstrap css classes are available in the project aswell.
 
 ## Development server
 
